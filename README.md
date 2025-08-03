@@ -1,1 +1,1 @@
-# japer-technology
+# Justfied Access Protocols for Encrypted Resources
